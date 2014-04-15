@@ -3,3 +3,7 @@
 node_modules/
 config.js
 server/temp
+client/bin
+client/include
+client/lib
+client/local
